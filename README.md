@@ -32,6 +32,7 @@ Flag format: `0x1337{...}`
 | [Some Surprises](some-surprises/) | Web |
 | [Swap It](swapit/) | Stego / Misc |
 | [Untitled Session 04](untitled-session-04/) | Forensics / Audio |
+| [Wasn't So Hard](wasnt-so-hard/) | Crypto |
 | [Who's That Pokemon?](whos-that-pokemon/) | Web |
 
 Each folder has a `README.md` with the writeup, plus solve scripts and challenge files where available.
