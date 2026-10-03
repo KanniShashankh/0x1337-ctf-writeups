@@ -1,0 +1,7 @@
+Trainer ID: 50032
+
+Party:
+    Rayquaza (Shiny):
+    	Nature: Hasty
+    	IVs (HP/Atk/Def/SpA/SpD/Spe): 6 / 9 / 14 / 8 / 3 / 18
+    	Notes: Stationary legendary, encountered in a single encounter slot (stationary)

@@ -1,0 +1,21 @@
+RELAY MAINTENANCE FRAGMENT — revision 22 (partially burned)
+
+Unit report cycle (PA-7):
+  clearance  <-  http://relay.internal/units/PA-7/clearance
+  lease      <-  https://relay.internal/lease    [X-MUX-Auth: CLIMBING_PROTOCOL]
+  report     ->  https://relay.internal/core/handoff
+                [X-MUX-Sig: HMAC-SHA256(unit_key, route_ticket || clearance)]
+                {"ticket": ..., "clearance": ..., "B": "<group 14 public value>"}
+  Sealed replies await a king. Yuppies are of no consequence.
+  The unit key never leaves the unit.
+
+Margin note (unit firmware 1.9):
+  The android checks the issuer on every certificate. Twice.
+  The issuer MUST be "OK Computer".
+  Chain validation is scheduled for the next album.
+  I may be paranoid, but not thorough.
+
+Seal:
+  shared = peer_public ** your_private mod p
+  key = SHA-256(shared_as_256_big_endian_bytes || route_ticket_ascii || "B3LAY-7Q4M")
+  associated data = route_ticket_ascii

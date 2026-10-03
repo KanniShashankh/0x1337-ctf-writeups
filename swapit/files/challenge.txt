@@ -1,0 +1,7 @@
+Decode the code using the given image.
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbGFnIjoiU1Y5a2IyNG5kRjlzYVd0bFh6TXkifQ.Nfb2RU1yqxF5Q5UdUeXrYabAHYpar2qCDVBDIyGM_nM
+Happy hacking!!!
+
+Author: Abhiro0p
+
