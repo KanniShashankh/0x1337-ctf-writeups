@@ -20,7 +20,9 @@ Flag format: `0x1337{...}`
 | [Dig Deep](dig-deep/) | Forensics / Stego |
 | [The Grand Cyber Library](grand-cyber-library/) | Web |
 | [GridMax Logistics](gridmax/) | Web / OSINT |
+| [Image Forensics (SpongeBob)](image-forensics-spongebob/) | Forensics / Stego |
 | [Material](material/) | OSINT |
+| [Nested Matryoshka](nested-matryoshka/) | Forensics / Stego |
 | [Netlist Reverse](netlist-reverse/) | Reverse / Hardware |
 | [Never Forget](never-forget/) | OSINT |
 | [A portrait of an orc on fire](orc/) | Malware / Reverse |
