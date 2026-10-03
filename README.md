@@ -14,6 +14,7 @@ Flag format: `0x1337{...}`
 | Challenge | Category |
 |-----------|----------|
 | [Arthur's Redstone Contraption](arthurs-redstone-contraption/) | Reverse / Hardware |
+| [based](based/) | Crypto / Misc |
 | [Batrick Pateman](batrick-pateman/) | Misc / Forensics |
 | [but nobody came](but-nobody-came/) | Crypto |
 | [Can't See? Can't Sign?](cant-see-cant-sign/) | Crypto |
