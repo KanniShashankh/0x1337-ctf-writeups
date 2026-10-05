@@ -37,5 +37,6 @@ Flag format: `0x1337{...}`
 | [Untitled Session 04](untitled-session-04/) | Forensics / Audio |
 | [Wasn't So Hard](wasnt-so-hard/) | Crypto |
 | [Who's That Pokemon?](whos-that-pokemon/) | Web |
+| [widest view in...](widest-view-in/) | OSINT (geolocation, Chile) |
 
 Each folder has a `README.md` with the writeup, plus solve scripts and challenge files where available.
